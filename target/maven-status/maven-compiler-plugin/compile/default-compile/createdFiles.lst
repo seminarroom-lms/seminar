@@ -1,0 +1,17 @@
+com\seminarroom\edu\model\VideoLecture.class
+com\seminarroom\edu\model\Module.class
+com\seminarroom\edu\model\ReadingMaterial.class
+com\seminarroom\edu\repository\VideoLectureRepository.class
+com\seminarroom\edu\controller\CourseController.class
+com\seminarroom\edu\repository\CourseRepository.class
+com\seminarroom\edu\EduJourneyBackendApplication.class
+com\seminarroom\edu\controller\AssignmentController.class
+com\seminarroom\edu\controller\ReadingMaterialController.class
+com\seminarroom\edu\model\Course.class
+com\seminarroom\edu\config\WebConfig.class
+com\seminarroom\edu\repository\AssignmentRepository.class
+com\seminarroom\edu\repository\ReadingMaterialRepository.class
+com\seminarroom\edu\controller\ModuleController.class
+com\seminarroom\edu\model\Assignment.class
+com\seminarroom\edu\repository\ModuleRepository.class
+com\seminarroom\edu\controller\VideoLectureController.class
