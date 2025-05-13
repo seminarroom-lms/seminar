@@ -31,14 +31,22 @@ public class Course {
     public String getDescription() { return description; }
     public void setDescription(String description) { this.description = description; }
 
-    public Long getHrs() { return hours; }
-    public void setHrs(Long hours) { this.hours = hours; }
+    // public Long getHrs() { return hours; }
+    // public void setHrs(Long hours) { this.hours = hours; }
 
-    public Long getLectures() { return lectures; }
-    public void setLectures(Long lectures) { this.lectures = lectures; }
+    // public Long getLectures() { return lectures; }
+    // public void setLectures(Long lectures) { this.lectures = lectures; }
 
-    public Long getExercises() { return exercises; }
-    public void setExercises(Long exercises) { this.exercises = exercises; }
+    // public Long getExercises() { return exercises; }
+    // public void setExercises(Long exercises) { this.exercises = exercises; }
+    public Long getHours() { return hours; }
+public void setHours(Long hours) { this.hours = hours; }
+
+public Long getLectures() { return lectures; }
+public void setLectures(Long lectures) { this.lectures = lectures; }
+
+public Long getExercises() { return exercises; }
+public void setExercises(Long exercises) { this.exercises = exercises; }
 
     public String getTrainer_name() { return trainer_name; }
     public void setTrainer_name(String trainer_name) { this.trainer_name = trainer_name; }
